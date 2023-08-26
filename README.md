@@ -21,7 +21,7 @@ Oi pessoal! Eu sou Richard Zamoner, um estudante dedicado e apaixonado em uma mi
 
 Site construido em HTML, Java Script e CSS. Com a função de selecioar e pausar a vinheta.
 
-![Captura de Tela do Projeto 1](https://user-images.githubusercontent.com/130820445/263433269-bed2ae0b-f897-46c5-bc88-da2880be14a2.png))
+![Captura de Tela do Projeto 1](https://user-images.githubusercontent.com/130820445/263433269-bed2ae0b-f897-46c5-bc88-da2880be14a2.png)
 
 Repositório: [Link para o Repo](https://github.com/Dev-RichardZamoner/Dev-RichardZamoner-Vinheta.io)
 
