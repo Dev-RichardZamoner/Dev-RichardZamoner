@@ -28,9 +28,11 @@ Repositório: [Link para o Repo](https://github.com/Dev-RichardZamoner/Dev-Richa
 ### Projeto 2: [CityBlet.io]
 
 Site construido em HTML, Java Script e CSS. Disponibilizado a todos por motivo de falta de pagamento do cliente.
-(Depois de vários rolos acontecer com o nome dele, então para não perder o projeto estou disponibilizando ele gratuitamente a todos. 
+(Depois de vários rolos acontecer com o nome dele, então para não perder o projeto estou disponibilizando ele gratuitamente a todos. )
 
 ![Captura de Tela do Projeto 2]![image](https://github.com/Dev-RichardZamoner/Dev-RichardZamoner/assets/130820445/b191f443-ae5f-4872-82aa-4297aa216424)
+![image](https://github.com/Dev-RichardZamoner/Dev-RichardZamoner/assets/130820445/06eb5539-df36-4a03-8c33-e56a57d630a0)
+
 
 
 Repositório: [Link para o Repo](https://github.com/Dev-RichardZamoner/CityBlet.io)
@@ -39,13 +41,13 @@ Repositório: [Link para o Repo](https://github.com/Dev-RichardZamoner/CityBlet.
 
 Estou comprometido com o aprendizado e crescimento contínuos. Aqui estão algumas coisas nas quais estou trabalhando:
 
-- [ ] Construir um site de portfólio dinâmico para exibir minhas habilidades e projetos.
-- [ ] Contribuir para projetos de código aberto e colaborar com outros desenvolvedores.
-- [ ] Dominar o desenvolvimento backend, focando em bancos de dados e gerenciamento de servidores.
-- [ ] Manter-se atualizado com as últimas tendências do setor e tecnologias emergentes.
+- [❌] Construir um site de portfólio dinâmico para exibir minhas habilidades e projetos.
+- [✔️] Contribuir para projetos de código aberto e colaborar com outros desenvolvedores.
+- [✔️] Dominar o desenvolvimento backend, focando em bancos de dados e gerenciamento de servidores.
+- [✔️] Manter-se atualizado com as últimas tendências do setor e tecnologias emergentes.
 
 ## Vamos Conectar
 
-Estou sempre ansioso para me conectar com outros desenvolvedores, estudantes e entusiastas de tecnologia. Fique à vontade para entrar em contato comigo através do [Instagram](https://www.instagram.com/rmc.oficial)) ou me enviar um e-mail em devpaulista@gmail.com.
+Estou sempre ansioso para me conectar com outros desenvolvedores, estudantes e entusiastas de tecnologia. Fique à vontade para entrar em contato comigo através do [Instagram](https://www.instagram.com/rmc.oficial) ou me enviar um e-mail em devpaulista@gmail.com.
 
 Vamos aprender, codificar e criar juntos um futuro tecnológico! 🚀
