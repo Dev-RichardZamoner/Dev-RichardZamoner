@@ -25,6 +25,15 @@ Site construido em HTML, Java Script e CSS. Com a função de selecioar e pausar
 
 Repositório: [Link para o Repo](https://github.com/Dev-RichardZamoner/Dev-RichardZamoner-Vinheta.io)
 
+### Projeto 2: [CityBlet.io]
+
+Site construido em HTML, Java Script e CSS. Disponibilizado a todos por motivo de falta de pagamento do cliente.
+(Depois de vários rolos acontecer com o nome dele, então para não perder o projeto estou disponibilizando ele gratuitamente a todos. 
+
+![Captura de Tela do Projeto 2]![image](https://github.com/Dev-RichardZamoner/Dev-RichardZamoner/assets/130820445/b191f443-ae5f-4872-82aa-4297aa216424)
+
+
+Repositório: [Link para o Repo](https://github.com/Dev-RichardZamoner/CityBlet.io)
 
 ## Metas
 
