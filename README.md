@@ -1,6 +1,6 @@
 # Olá, camarada coder! 👋
 
-Bem-vindo ao meu Repositório de Jornada de Codificação!
+Bem-vindo ao meu Repositório!
 
 (![image](https://github.com/Dev-RichardZamoner/Dev-RichardZamoner/assets/130820445/32788360-e590-4553-a73d-6a9e1b00cc75)
 
