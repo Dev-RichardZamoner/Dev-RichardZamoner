@@ -25,17 +25,17 @@ Site construido em HTML, Java Script e CSS. Com a função de selecioar e pausar
 
 Repositório: [Link para o Repo](https://github.com/Dev-RichardZamoner/Dev-RichardZamoner-Vinheta.io)
 
-### Projeto 2: [CityBlet.io]
+### Projeto 2: [BletJogoRadio]
 
-Site construido em HTML, Java Script e CSS. Disponibilizado a todos por motivo de falta de pagamento do cliente.
-(Depois de vários rolos acontecer com o nome dele, então para não perder o projeto estou disponibilizando ele gratuitamente a todos. )
-
-![Captura de Tela do Projeto 2]![image](https://github.com/Dev-RichardZamoner/Dev-RichardZamoner/assets/130820445/b191f443-ae5f-4872-82aa-4297aa216424)
-![image](https://github.com/Dev-RichardZamoner/Dev-RichardZamoner/assets/130820445/06eb5539-df36-4a03-8c33-e56a57d630a0)
+Site construido em HTML, Java Script e CSS. A principal função é trazer o entreteirmento dos player para interagir com a interface do Twitter alcancando um publico maior. 
 
 
 
-Repositório: [Link para o Repo](https://github.com/Dev-RichardZamoner/CityBlet.io)
+https://github.com/Dev-RichardZamoner/Dev-RichardZamoner/assets/130820445/6502e6b2-0619-464c-a391-fa7ba4613a7b
+
+
+
+Repositório: [Link para o Repo](https://github.com/Dev-RichardZamoner/BletJogo.io/tree/main)
 
 ## Metas
 
