@@ -14,6 +14,8 @@ Oi pessoal! Eu sou Richard Zamoner, um estudante dedicado e apaixonado em uma mi
 - 🚀 Trabalhando em: Projetos empolgantes para aprimorar minhas habilidades e colocar a teoria em prática.
 - 🎓 Estudando no: Moura Lacerda & Origamid.
 - 📫 Como me contatar: [Email](mailto:devpaulista@gmail.com) | [Instagram](https://www.instagram.com/rmc.oficial) | ([Linkedin](https://www.linkedin.com/in/dev-richard-zamoner/))
+- 🚀 Ultimos Certificados [doc.pdf](https://github.com/Dev-RichardZamoner/Dev-RichardZamoner/files/12549949/doc.pdf)
+
 
 ## Projetos
 
