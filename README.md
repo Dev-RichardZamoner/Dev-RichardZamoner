@@ -12,8 +12,8 @@ Oi pessoal! Eu sou Richard Zamoner, um estudante dedicado e apaixonado em uma mi
 - 🌱 Atualmente aprendendo: HTML, CSS, JavaScript, React, Node.js, MongoDB.
 - 💡 Explorando: Princípios de design UI/UX para criar interfaces visualmente atraentes e amigáveis ​​ao usuário.
 - 🚀 Trabalhando em: Projetos empolgantes para aprimorar minhas habilidades e colocar a teoria em prática.
-- 🎓 Estudando na: [[Descomplica/ Estacio ](https://web.dev/), (https://processo-seletivo.descomplica.com.br/), (http://estacio.br) ].
-- 📫 Como me contatar: [Email](mailto:devpaulista@gmail.com) | [Instagra,](https://www.instagram.com/rmc.oficial) | [Portfólio](Breve disponivel)
+- 🎓 Estudando no: Moura Lacerda & Origamid.
+- 📫 Como me contatar: [Email](mailto:devpaulista@gmail.com) | [Instagra,](https://www.instagram.com/rmc.oficial) | ([Linkedin](https://www.linkedin.com/in/dev-richard-zamoner/))
 
 ## Projetos
 
